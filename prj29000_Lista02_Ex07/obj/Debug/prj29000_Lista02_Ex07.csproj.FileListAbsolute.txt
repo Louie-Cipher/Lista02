@@ -1,0 +1,8 @@
+D:\OneDrive - Etec Centro Paula Souza\PDC1\29000_Lista02\prj29000_Lista02_Ex07\bin\Debug\prj29000_Lista02_Ex07.exe.config
+D:\OneDrive - Etec Centro Paula Souza\PDC1\29000_Lista02\prj29000_Lista02_Ex07\bin\Debug\prj29000_Lista02_Ex07.exe
+D:\OneDrive - Etec Centro Paula Souza\PDC1\29000_Lista02\prj29000_Lista02_Ex07\bin\Debug\prj29000_Lista02_Ex07.pdb
+D:\OneDrive - Etec Centro Paula Souza\PDC1\29000_Lista02\prj29000_Lista02_Ex07\obj\Debug\prj29000_Lista02_Ex07.csproj.AssemblyReference.cache
+D:\OneDrive - Etec Centro Paula Souza\PDC1\29000_Lista02\prj29000_Lista02_Ex07\obj\Debug\prj29000_Lista02_Ex07.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive - Etec Centro Paula Souza\PDC1\29000_Lista02\prj29000_Lista02_Ex07\obj\Debug\prj29000_Lista02_Ex07.csproj.CoreCompileInputs.cache
+D:\OneDrive - Etec Centro Paula Souza\PDC1\29000_Lista02\prj29000_Lista02_Ex07\obj\Debug\prj29000_Lista02_Ex07.exe
+D:\OneDrive - Etec Centro Paula Souza\PDC1\29000_Lista02\prj29000_Lista02_Ex07\obj\Debug\prj29000_Lista02_Ex07.pdb

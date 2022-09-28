@@ -1,0 +1,16 @@
+D:\OneDrive - Etec Centro Paula Souza\PDC1\29000_Lista02\prj29000_Lista02_Ex02\bin\Debug\prj29000_Lista02_Ex02.exe.config
+D:\OneDrive - Etec Centro Paula Souza\PDC1\29000_Lista02\prj29000_Lista02_Ex02\bin\Debug\prj29000_Lista02_Ex02.exe
+D:\OneDrive - Etec Centro Paula Souza\PDC1\29000_Lista02\prj29000_Lista02_Ex02\bin\Debug\prj29000_Lista02_Ex02.pdb
+D:\OneDrive - Etec Centro Paula Souza\PDC1\29000_Lista02\prj29000_Lista02_Ex02\obj\Debug\prj29000_Lista02_Ex02.csproj.AssemblyReference.cache
+D:\OneDrive - Etec Centro Paula Souza\PDC1\29000_Lista02\prj29000_Lista02_Ex02\obj\Debug\prj29000_Lista02_Ex02.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive - Etec Centro Paula Souza\PDC1\29000_Lista02\prj29000_Lista02_Ex02\obj\Debug\prj29000_Lista02_Ex02.csproj.CoreCompileInputs.cache
+D:\OneDrive - Etec Centro Paula Souza\PDC1\29000_Lista02\prj29000_Lista02_Ex02\obj\Debug\prj29000_Lista02_Ex02.exe
+D:\OneDrive - Etec Centro Paula Souza\PDC1\29000_Lista02\prj29000_Lista02_Ex02\obj\Debug\prj29000_Lista02_Ex02.pdb
+C:\Users\aluno\OneDrive - Etec Centro Paula Souza\PDC1\29000_Lista02\prj29000_Lista02_Ex02\bin\Debug\prj29000_Lista02_Ex02.exe.config
+C:\Users\aluno\OneDrive - Etec Centro Paula Souza\PDC1\29000_Lista02\prj29000_Lista02_Ex02\bin\Debug\prj29000_Lista02_Ex02.exe
+C:\Users\aluno\OneDrive - Etec Centro Paula Souza\PDC1\29000_Lista02\prj29000_Lista02_Ex02\bin\Debug\prj29000_Lista02_Ex02.pdb
+C:\Users\aluno\OneDrive - Etec Centro Paula Souza\PDC1\29000_Lista02\prj29000_Lista02_Ex02\obj\Debug\prj29000_Lista02_Ex02.csproj.AssemblyReference.cache
+C:\Users\aluno\OneDrive - Etec Centro Paula Souza\PDC1\29000_Lista02\prj29000_Lista02_Ex02\obj\Debug\prj29000_Lista02_Ex02.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\OneDrive - Etec Centro Paula Souza\PDC1\29000_Lista02\prj29000_Lista02_Ex02\obj\Debug\prj29000_Lista02_Ex02.csproj.CoreCompileInputs.cache
+C:\Users\aluno\OneDrive - Etec Centro Paula Souza\PDC1\29000_Lista02\prj29000_Lista02_Ex02\obj\Debug\prj29000_Lista02_Ex02.exe
+C:\Users\aluno\OneDrive - Etec Centro Paula Souza\PDC1\29000_Lista02\prj29000_Lista02_Ex02\obj\Debug\prj29000_Lista02_Ex02.pdb
